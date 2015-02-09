@@ -1,0 +1,6 @@
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\OutlookCalendarReader\OutlookCalendarReader\bin\Debug\OutlookCalendarReader.exe.config
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\OutlookCalendarReader\OutlookCalendarReader\bin\Debug\OutlookCalendarReader.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\OutlookCalendarReader\OutlookCalendarReader\bin\Debug\OutlookCalendarReader.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\OutlookCalendarReader\OutlookCalendarReader\obj\Debug\OutlookCalendarReader.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\OutlookCalendarReader\OutlookCalendarReader\obj\Debug\OutlookCalendarReader.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\OutlookCalendarReader\OutlookCalendarReader\obj\Debug\OutlookCalendarReader.csprojResolveAssemblyReference.cache
